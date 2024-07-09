@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Haoningsmann Blog</title>
+    <link>https://haoningsmann.github.io/posts/</link>
+    <description>Recent content in Posts on Haoningsmann Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 09 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://haoningsmann.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World Again</title>
+      <link>https://haoningsmann.github.io/posts/20240709/</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://haoningsmann.github.io/posts/20240709/</guid>
+      <description>一些在开始想说的</description>
+    </item>
+  </channel>
+</rss>
